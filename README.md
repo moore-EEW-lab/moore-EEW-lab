@@ -1,4 +1,4 @@
-- This is the GITHUB page for the Evolution & Eco-Physiology of Wetlands (EEW) lab group, currently at the University of Colorado Denver.
+- This is the GITHUB page for the Evolution & Eco-Physiology of Wetlands (EEW) lab group at the University of Colorado Denver.
   
 - We study how physiology shapes and constrains the directions, rates, and outcomes of evolution across the life cycles of wetland animals.
   
